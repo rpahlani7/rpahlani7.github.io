@@ -7,4 +7,4 @@ The data set that's suits me is house rent prediction dataset. It shows that how
 
 #Practical Statistics for data science by peter bruce and andrew bruce https://github.com/ghoshark/E_Books/blob/master/Practical%20Statistics%20for%20Data%20Scientists.pdf 
 
-I like this book since it covers topics which suits my area of interests like data sampling, distributions, machine learning, statistical experiments. All codes are in beginner friendly manner and include hands-on code examples using R & Python. 
+I like this book since it covers topics which suits my area of interests like data sampling, distributions, machine learning, statistical experiments. All codes are in beginner friendly manner and include hands-on code examples using R & Python. It explains easily refrenced form, key concepts from statstics that are relevet to data science.The explaination in the book is according to important topics for data science.
